@@ -15,7 +15,7 @@ I am interested in React, Next.
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgryu23&layout=compact&theme=tokyonight)
 
-## 🥇 Algorithm(BOJ solved Rank)
+## 🥇 Algorithm(BOJ solved rank)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pangpang_e)](https://solved.ac/pangpang_e)
 
 ## 🔗 Link
