@@ -19,5 +19,9 @@ I am interested in React, Next.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pangpang_e)](https://solved.ac/pangpang_e)
 
 ## 🔗 Link
-![velog](https://velog.io/@pangpang_e)
-![tistory](https://sam-repository.tistory.com/)
+<a href="https://velog.io/@pangpang_e">
+  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+</a> <br>
+<a href="https://sam-repository.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-EF8B47?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
